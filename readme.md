@@ -5,7 +5,7 @@ Watch hls ad-free videos on streaming sites and online cinema without butt-pain 
 How to use it: open any video on streaming site(for example - `https://hlsjs.video-dev.org/demo/` goes to `https://noadshls.netlify.app/view/aHR0cHM6Ly90ZXN0LXN0cmVhbXMubXV4LmRldi94MzZ4aHp6L3gzNnhoenoubTN1OA==`) and in right-bottom corner you'll see blue Play icon. Click on it and select playlist from widget!
 
 How to install: 
-- Download and unarchive `./extension.md`
+- Download and unarchive `./extension.zip`
 
 - Open `chrome://extensions/` and enable `Developer mode`
 
