@@ -1,0 +1,54 @@
+body {
+  @apply bg-slate-100;
+}
+
+.anticon {
+  line-height: 0em !important;
+  display: inline-flex !important;
+}
+
+h1, h2, p, a, input, span {
+  // @apply font-thin;
+  @apply font-light;
+}
+
+.qr-modal {
+  .ant-modal-header {
+    @apply bg-transparent;
+  }
+  .ant-modal-content {
+    @apply bg-slate-100;
+  }
+}
+
+.page {
+  @apply px-4;
+  @apply my-10;
+  @apply mx-auto;
+  max-width: 960px;
+}
+
+.video {
+  video-js, video {
+    @apply rounded-xl;
+    @apply overflow-hidden;
+  }
+}
+
+.about {
+  h1 {
+    @apply my-5;
+    @apply text-4xl;
+    @apply font-light;
+  }
+
+  h2 {
+    @apply my-3;
+    @apply text-2xl;
+    @apply font-light;
+  }
+
+  p {
+    @apply font-thin;
+  }
+}
